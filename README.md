@@ -8,3 +8,9 @@ The link to Karl Broman's website with some nice examples on QTL mapping (has ex
 https://rqtl.org/
 
 This repo includes code that was originally used to map the Tcb1-s and Ga1-s loci in maize. It has been generalized for other mapping cases in maize.
+
+
+Who to contact/blame for this repo
+Merritt Burch
+merrittbburch@gmail.com
+mbb262@cornell.edu
