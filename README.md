@@ -11,6 +11,9 @@ This repo includes code that was originally used to map the Tcb1-s and Ga1-s loc
 
 
 Who to contact/blame for this repo
+
 Merritt Burch
+
 merrittbburch@gmail.com
+
 mbb262@cornell.edu
